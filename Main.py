@@ -15,10 +15,10 @@ CONFIG = {
     "cooldown": 300,  # 5 minutes between SMS alerts
     "frame_skip": 3,  # Process every 3rd frame
     "twilio": {
-        "sid": "ACf351ce4d430d5f46268d7300558fcd66",
-        "token": "9aac455b3a3b4f525340ad30c352eba2",
-        "from": "+12394455546",
-        "to": "+918619801819"
+        "sid": "",
+        "token": "2",
+        "from": "",
+        "to": ""
     }
 }
 
